@@ -1,0 +1,7 @@
+Sales Summary
+----------------------------
+ Total Sales: $1,001.24
+
+ Details:
+  store-a.txt: $425.49
+  store-b.txt: $575.75
